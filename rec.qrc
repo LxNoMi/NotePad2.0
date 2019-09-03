@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/close.png</file>
+        <file>icon/edit_all.png</file>
+        <file>icon/edit_bing.png</file>
+        <file>icon/edit_copy.png</file>
+        <file>icon/edit_cut.png</file>
+        <file>icon/edit_date.png</file>
+        <file>icon/edit_del.png</file>
+        <file>icon/edit_find.png</file>
+        <file>icon/edit_find_n.png</file>
+        <file>icon/edit_goto.png</file>
+        <file>icon/edit_past.png</file>
+        <file>icon/edit_replace.png</file>
+        <file>icon/edit_undo.png</file>
+        <file>icon/file_close.png</file>
+        <file>icon/file_exit.png</file>
+        <file>icon/file_new.png</file>
+        <file>icon/file_open.png</file>
+        <file>icon/file_print.png</file>
+        <file>icon/file_pset.png</file>
+        <file>icon/file_save.png</file>
+        <file>icon/file_saveas.png</file>
+        <file>icon/form_autoline.png</file>
+        <file>icon/form_color.png</file>
+        <file>icon/form_font.png</file>
+        <file>icon/help.png</file>
+        <file>icon/help_about.png</file>
+        <file>icon/help_csdn.png</file>
+        <file>icon/icon.png</file>
+        <file>icon/view_status.png</file>
+        <file>icon/view_zoom.png</file>
+    </qresource>
+</RCC>
